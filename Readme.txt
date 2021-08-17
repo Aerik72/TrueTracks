@@ -15,9 +15,11 @@ Installation:
 2. Find your Tomb Raider installation. I have a Steam copy, so I'll open a new File Explorer window and navigate to C:\Program Files (x86)\Steam\steamapps\common\Tomb Raider (I).
 Tip: You can also open your Steam library, right-click on Tomb Raider (I), and click Open Folder Location.
 
-3. (Optional) Make backups of your original level files, in case you want to revert. Rename LEVEL1.PHD and LEVEL3A.PHD to something like "LEVEL1_orig.PHD" and "LEVEL3A_orig.PHD".
+3. Find the level files in the DATA folder. It should contain LEVEL1.PHD (Caves) and LEVEL3A.PHD (Lost Valley).
 
-4. Copy the two LEVEL files from the mod's DATA folder to your installation's DATA folder, and overwrite.
+4. (Optional) Make backups of your original level files, in case you want to revert. Rename LEVEL1.PHD and LEVEL3A.PHD to something like "LEVEL1_orig.PHD" and "LEVEL3A_orig.PHD".
+
+5. Copy the two LEVEL files from the mod's DATA folder to your installation's DATA folder, and overwrite.
 
 ***
 
