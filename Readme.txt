@@ -10,11 +10,10 @@ The levels are otherwise untouched. New textures are in the original resolution,
 
 Installation:
 
-1. Unzip Eriks_True_Tracks.zip. The important files are the two LEVEL files in the DATA folder.
+1. Download the two LEVEL files in the DATA folder. (Or download the full repo as a .zip, unzip it, and find the two LEVEL files in DATA.)
 
 2. Find your Tomb Raider installation. I have a Steam copy, so I'll open a new File Explorer window and navigate to C:\Program Files (x86)\Steam\steamapps\common\Tomb Raider (I).
-Tip: You can also open your Steam library, right-click on Tomb Raider (I), and click Open Folder
-Location.
+Tip: You can also open your Steam library, right-click on Tomb Raider (I), and click Open Folder Location.
 
 3. (Optional) Make backups of your original level files, in case you want to revert. Rename LEVEL1.PHD and LEVEL3A.PHD to something like "LEVEL1_orig.PHD" and "LEVEL3A_orig.PHD".
 
